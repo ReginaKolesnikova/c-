@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\ConsoleApp122222\bin\Debug\net6.0\ConsoleApp122222.exe
+C:\Users\opilane\source\repos\ConsoleApp122222\bin\Debug\net6.0\ConsoleApp122222.deps.json
+C:\Users\opilane\source\repos\ConsoleApp122222\bin\Debug\net6.0\ConsoleApp122222.runtimeconfig.json
+C:\Users\opilane\source\repos\ConsoleApp122222\bin\Debug\net6.0\ConsoleApp122222.dll
+C:\Users\opilane\source\repos\ConsoleApp122222\bin\Debug\net6.0\ConsoleApp122222.pdb
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ConsoleApp122222.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ConsoleApp122222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ConsoleApp122222.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ConsoleApp122222.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ConsoleApp122222.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ConsoleApp122222.dll
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\refint\ConsoleApp122222.dll
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ConsoleApp122222.pdb
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ConsoleApp122222.genruntimeconfig.cache
+C:\Users\opilane\source\repos\ConsoleApp122222\obj\Debug\net6.0\ref\ConsoleApp122222.dll
